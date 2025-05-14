@@ -17,4 +17,4 @@ meteor add meteorisgreat:ferretdb-index-fix
 
 List it *before* `accounts-password` in `.meteor/packages` if you edit that file manually.
 
-Remove the package once FerretDB closes issue #2448 and supports sparse / partial indexes natively.
+Remove the package once FerretDB closes issue [#2448](https://github.com/FerretDB/FerretDB/issues/2448) and supports sparse / partial indexes natively.
