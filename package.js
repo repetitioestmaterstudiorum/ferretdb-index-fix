@@ -1,8 +1,8 @@
 Package.describe({
   name: 'meteorisgreat:ferretdb-index-fix',
-  version: '0.1.1',
-  summary: 'Work-around for FerretDB dead-lock & sparse-index issues in Meteor',
-  git: 'https://github.com/repetitioestmaterstudiorum/ferretdb-index-fix.git',
+  version: '0.1.2',
+  summary: 'Compatibility layer for Meteor ↔ FerretDB: drops sparse and unique index options.',
+  git: 'https://github.com/tannerlab/meteorjs-ferretdb-index-fix',
   documentation: 'README.md',
 });
 
