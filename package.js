@@ -1,7 +1,7 @@
 Package.describe({
   name: 'meteorisgreat:ferretdb-index-fix',
-  version: '0.2.0',
-  summary: 'Compatibility layer for Meteor\'s accounts packages and FerretDB: makes createIndexAsync sync.',
+  version: '0.2.1',
+  summary: 'Compatibility layer for Meteor\'s accounts packages and FerretDB: makes createIndexAsync sequential.',
   git: 'https://github.com/tannerlab/meteorjs-ferretdb-index-fix',
   documentation: 'README.md',
 });
